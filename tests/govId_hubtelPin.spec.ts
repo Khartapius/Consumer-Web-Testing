@@ -16,7 +16,7 @@ test.describe('Manage Account (Hubtel Balance PIN)', async() => {
         })
 
         await test.step('⌛Waiting for the page to load', async() => {
-            await page.waitForLoadState('networkidle');
+            await page.waitForTimeout(2000);
         })
 
         await test.step('📜Checking if we are on the Hubtel Balance PIN section', async() => {
