@@ -1,0 +1,61 @@
+{
+    "cookies": [
+      {
+        "domain": ".smsgh.com",
+        "expirationDate": 1754141852,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "consumerAuth",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI3NTNkNjM2OC0wZWNjLTQyMDgtYjBhYi1hMTM2M2YzZDQ5M2MiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9tb2JpbGVwaG9uZSI6IjIzMzI0NzI3ODczOCIsIm5iZiI6MTcyMjYwNTg0NCwiZXhwIjoxNzU0MTQxODQ0LCJpc3MiOiJodHRwOi8vaHVidGVsLmNvbSIsImF1ZCI6Imh0dHA6Ly9odWJ0ZWwuY29tIn0.HmFUShseWaYpHVBiqscIrTDkHSfRY6b65WRFUjv5awk"
+      },
+      {
+        "domain": ".smsgh.com",
+        "expirationDate": 1754141858,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "hubtelUserDetails",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "{\"profile\":{\"name\":\"Pius Chiir-Deri\",\"mobileNumber\":\"233247278738\",\"imageUrl\":\"https://consumerdata.hubtel.com/api/Customer/profile/images/239785ccec9e4321ac164d15f137f955.jpg\"},\"location\":{\"name\":\"Circle VIP Station\",\"latitude\":\"5.568455699999999\",\"longitude\":\"-0.2194335\",\"userZone\":\"Osu - Makola\",\"hubtelInZone\":true},\"isLoggedIn\":true}"
+      },
+      {
+        "domain": "smsgh.com",
+        "expirationDate": 1715848451,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "hide_nps_233247278738",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "1"
+      }
+    ],
+  
+    "origins": [{
+      "origin": "https://smsgh.com",
+      "localStorage": [{
+          "name": "website-data",
+          "value": "{\"website\":{\"homePageData\":{},\"mothersDayPrize\":{},\"paySmallSmallCache\":{}}}"
+        },
+        {
+          "name": "hubtel-store",
+          "value": "{\"auth\":{\"userAuthToken\":{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI3NTNkNjM2OC0wZWNjLTQyMDgtYjBhYi1hMTM2M2YzZDQ5M2MiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9tb2JpbGVwaG9uZSI6IjIzMzI0NzI3ODczOCIsIm5iZiI6MTcyMjYwNTg0NCwiZXhwIjoxNzU0MTQxODQ0LCJpc3MiOiJodHRwOi8vaHVidGVsLmNvbSIsImF1ZCI6Imh0dHA6Ly9odWJ0ZWwuY29tIn0.HmFUShseWaYpHVBiqscIrTDkHSfRY6b65WRFUjv5awk\",\"expiry\":\"08/02/2025 13:37:24\",\"msisdn\":\"233247278738\"}},\"service\":{\"consumerFavorites\":[],\"defaultFavorite\":{\"serviceLogo\":\"https://hubtelpos-dev.s3.amazonaws.com/images/MTN-Logo.png\",\"serviceId\":\"fdd76c884e614b1c8f669a3207b09a98\",\"serviceName\":\"MTN Airtime\",\"backgroundImageUrl\":\"https://d3hxftityr9pmy.cloudfront.net/instant_services/adb_favorites_bg/Hubtel_generic_card_ADB.png\",\"category\":\"Airtime\",\"accountNumber\":\"0247278738\",\"color\":\"#ffffff\",\"network\":\"mtn\"},\"airtimeDataBillsFavorites\":[{\"id\":\"82b8d2f06fcd4ab3a8c7ddc609640ccf\",\"name\":\"House\",\"accountNumber\":\"0174100502791\",\"recipientName\":null,\"customerMobileNumber\":\"0247278738\",\"serviceId\":\"e6d6bac062b5499cb1ece1ac3d742a84\",\"serviceName\":\"ECG\",\"serviceLogo\":\"images/c23a941dc97444cbbf396445da57ee04.jpeg\",\"category\":\"bills\",\"backgroundImageUrl\":\"https://d3hxftityr9pmy.cloudfront.net/instant_services/adb_favorites_bg/ECG.png\",\"isDeleted\":false,\"createdAt\":\"2024-03-26T06:56:39.597284\",\"updatedAt\":null,\"color\":\"#000000\"},{\"id\":\"0c8a5213e3c64cf292849318323602fa\",\"name\":\"Work\",\"accountNumber\":\"0500402555\",\"recipientName\":null,\"customerMobileNumber\":\"0247278738\",\"serviceId\":\"f4be83ad74c742e185224fdae1304800\",\"serviceName\":\"Telecel Airtime\",\"serviceLogo\":\"images/5ff8e22f05b3418eb6a5a1e9ba0d6a6d.jpeg\",\"category\":\"airtime\",\"backgroundImageUrl\":\"https://d3hxftityr9pmy.cloudfront.net/instant_services/adb_favorites_bg/Vodafone.png\",\"isDeleted\":false,\"createdAt\":\"2024-03-28T17:11:07.450355\",\"updatedAt\":null,\"color\":\"#ffffff\"}],\"favoriteToDelete\":null,\"ignoredECGMeters\":[],\"suggestedFavorites\":[]},\"account\":{\"userProfile\":{\"customer\":{\"id\":19571448,\"fullName\":\"Pius Chiir-Deri\",\"legalName\":\"Pius Chiir-Deri\",\"otherName\":\"Pius Chiir-Deri\",\"nickName\":\"Chiir-Deri Pius\",\"handle\":null,\"gratisTierImageUrl\":null,\"gratisTier\":\"5\",\"mobileNumber\":\"233247278738\",\"alternativeMobileNumber\":\"\",\"network\":\"MTN\",\"networkCode\":\"62001\",\"isNewUser\":false,\"email\":\"chemogohpius@gmail.com\",\"gender\":null,\"countryCode\":\"GH\",\"imageUrl\":\"https://consumerdata.hubtel.com/api/Customer/profile/images/239785ccec9e4321ac164d15f137f955.jpg\",\"verifiedId\":\"GHA-713426937-0\",\"verifiedIdType\":\"NationalId\",\"rewardPointScore\":0,\"careForceEnabled\":0,\"birthDate\":null,\"locationLongitude\":\"-0.2194335\",\"locationLatitude\":\"5.568455699999999\",\"locationImage\":null,\"nameOfLocation\":\"Circle VIP Station\",\"city\":\"Accra\",\"zone\":\"Kokomlemle - Airport\",\"currentStation\":\"Kokomlemle\",\"fcMs\":\"cwZxXmC0SwCLC2vxbCGBYm:APA91bGqrE88TrXmvCYO1Sll-U3XvYtNEJrIZCSPS2RscNBTCar5x46VLkR2edVnBRsUMU712_coYbtpMa9fwsVWPW5mfazLI3PGMDbiYB34CVzsipfYIcvwHUQalV-K09hxmdQiIbpk\",\"accountVerificationStatus\":\"Approved\",\"accountVerificationNote\":\"Approved\",\"hasUnityAccount\":true,\"unityAccountDate\":\"2023-10-09 06:58:49\",\"unityAccountId\":\"bddfa52135c0441db4570699d2eb13f1\",\"ghqrSettlementType\":\"momo\",\"ghqrSettlementProvider\":\"MTN\",\"ghqrSettlementAccountNumber\":\"233247278738\",\"ghqrSettlementAccountName\":\"Pius Chiir-Deri\",\"ghqrSettlementAccountCity\":null,\"hubtelSalesFCM\":null,\"isHubtelSalesUser\":false,\"ghqrCode\":null,\"bankCode\":null,\"createdAt\":\"2023-10-09 06:58:49\",\"updateAt\":\"2024-08-04 13:39:15\"},\"wallets\":[{\"id\":11781255,\"customerId\":19571448,\"accountName\":\"PIUS CHIIR-DERI\",\"accountNo\":\"233503351477\",\"type\":\"MOMO\",\"providerId\":\"62002\",\"provider\":\"vodafone\",\"providerType\":\"TELCO\",\"status\":\"Active\",\"expiry\":\"**/**\",\"curentBalance\":0,\"availBalance\":0,\"secret\":\"***\",\"countryCode\":\"GH\",\"token\":null,\"note\":\"Awaiting Payment\",\"walletImageUrl\":null,\"isTokenized\":true,\"retryCount\":1,\"hasGateKeeperPass\":false,\"idCardFrontSide\":null,\"idCardBackSide\":null,\"idCardHolderSelfie\":null,\"isDefault\":false,\"isFinanceApproved\":false,\"createdAt\":\"2024-03-27 14:18:45\",\"updateAt\":\"2024-03-27 14:20:03\"},{\"id\":9579090,\"customerId\":19571448,\"accountName\":\"Pius Chiir-Deri\",\"accountNo\":\"233247278738\",\"type\":\"MOMO\",\"providerId\":\"62001\",\"provider\":\"mtn\",\"providerType\":\"TELCO\",\"status\":\"Active\",\"expiry\":\"**/**\",\"curentBalance\":0,\"availBalance\":0,\"secret\":\"***\",\"countryCode\":\"GH\",\"token\":null,\"note\":\"Awaiting Payment\",\"walletImageUrl\":null,\"isTokenized\":true,\"retryCount\":1,\"hasGateKeeperPass\":false,\"idCardFrontSide\":null,\"idCardBackSide\":null,\"idCardHolderSelfie\":null,\"isDefault\":false,\"isFinanceApproved\":false,\"createdAt\":\"2023-10-30 12:12:28\",\"updateAt\":\"2023-10-30 12:15:53\"},{\"id\":8944104,\"customerId\":19571448,\"accountName\":\"Pius Chiir-Deri\",\"accountNo\":\"233247278738\",\"type\":\"HUBTEL\",\"providerId\":\"Hubtel.Id\",\"provider\":\"Hubtel\",\"providerType\":\"Internal\",\"status\":\"Active\",\"expiry\":\"**/**\",\"curentBalance\":595.41,\"availBalance\":595.41,\"secret\":\"***\",\"countryCode\":\"GH\",\"token\":null,\"note\":null,\"walletImageUrl\":null,\"isTokenized\":true,\"retryCount\":1,\"hasGateKeeperPass\":true,\"idCardFrontSide\":null,\"idCardBackSide\":null,\"idCardHolderSelfie\":null,\"isDefault\":false,\"isFinanceApproved\":false,\"createdAt\":\"2023-10-09 06:58:50\",\"updateAt\":\"2023-10-09 06:58:50\"}]},\"consumerData\":{\"id\":19571448,\"clientId\":0,\"legalName\":\"Pius Chiir-Deri\",\"fullName\":\"Pius Chiir-Deri\",\"otherName\":\"Pius Chiir-Deri\",\"nickName\":\"Chiir-Deri Pius\",\"handle\":null,\"gratisTier\":\"5\",\"email\":\"chemogohpius@gmail.com\",\"gender\":null,\"mobileNumber\":\"233247278738\",\"network\":\"MTN\",\"networkCode\":\"62001\",\"alternativeMobileNumber\":\"\",\"birthDate\":null,\"source\":\"dev-portal\",\"imageUrl\":\"https://consumerdata.hubtel.com/api/Customer/profile/images/239785ccec9e4321ac164d15f137f955.jpg\",\"verifiedId\":\"GHA-713426937-0\",\"verifiedIdType\":\"NationalId\",\"countryCode\":\"GH\",\"rewardPointScore\":0,\"careForceEnabled\":0,\"locationLatitude\":\"5.568455699999999\",\"locationLongitude\":\"-0.2194335\",\"locationImage\":null,\"nameOfLocation\":\"Circle VIP Station\",\"city\":\"Accra\",\"zone\":\"Kokomlemle - Airport\",\"currentStation\":\"Kokomlemle\",\"accountVerificationStatus\":\"Approved\",\"accountVerificationNote\":\"Approved\",\"fcMs\":\"cwZxXmC0SwCLC2vxbCGBYm:APA91bGqrE88TrXmvCYO1Sll-U3XvYtNEJrIZCSPS2RscNBTCar5x46VLkR2edVnBRsUMU712_coYbtpMa9fwsVWPW5mfazLI3PGMDbiYB34CVzsipfYIcvwHUQalV-K09hxmdQiIbpk\",\"createdAt\":\"2023-10-09 06:58:49\",\"updatedAt\":\"2024-08-04 13:39:15\"},\"connections\":[],\"complianceStatus\":{\"kycStatus\":\"complete\",\"isBlacklisted\":false},\"consumerCards\":[{\"id\":\"a0dd3ad77ac84665a6a5df1553207b85\",\"name\":\"Chiir-Deri Pius\",\"lastDigits\":\"7958\",\"isPrimary\":true,\"createdAt\":\"2023-11-03T09:31:09.739632Z\",\"updatedAt\":\"2024-01-29T07:12:49.858382Z\"}],\"paymentMethods\":[{\"accountNo\":\"233247278738\",\"accountName\":\"PIUS CHIIR-DERI\",\"name\":\"Pius Chiir-Deri\",\"provider\":\"mtn\",\"providerType\":\"TELCO\",\"type\":\"MOMO\",\"isDefault\":false,\"isFinanceApproved\":false,\"createdAt\":\"2023-11-01 09:02:38\",\"updateAt\":\"2023-11-01 09:02:38\"},{\"accountNo\":\"233503351477\",\"accountName\":\"PIUS CHIIR-DERI\",\"name\":\"PIUS CHIIR-DERI\",\"provider\":\"vodafone\",\"providerType\":\"TELCO\",\"type\":\"MOMO\",\"isDefault\":false,\"isFinanceApproved\":false,\"createdAt\":\"2024-04-03 05:34:01\",\"updateAt\":\"2024-04-03 05:34:01\"},{\"accountNo\":\"0101538397202\",\"accountName\":\"Pius Chiir-Deri\",\"name\":\"Pius Chiir-Deri\",\"provider\":\"Zenith\",\"providerType\":\"Bank\",\"type\":\"Bank Account\",\"isDefault\":false,\"isFinanceApproved\":false,\"createdAt\":\"2023-10-30 10:23:56\",\"updateAt\":\"2023-10-30 10:23:56\"}],\"customerCommunication\":{\"allowSms\":false,\"allowVoice\":false,\"allowEmail\":false,\"allowPush\":false},\"walletVerificationStatus\":\"Verified\",\"bankAccountVerificationStatus\":\"Unverified\",\"autoFilingEnabled\":false},\"setting\":{\"isFCMRegistered\":true,\"isLocationServiceAllowed\":true,\"isUnityRequired\":true,\"isReceivingNotificationAllowed\":true,\"isHomePopUpViewed\":true,\"allowAds\":true,\"version\":\"5.0\",\"deviceId\":\"06c78b9a-c4a8-4d06-b16d-7ff0ea109edf\"},\"misc\":{\"eclToggle\":true}}"
+        },
+        {
+          "name": "hubtel-config",
+          "value": "{\"settings\":{\"hasForcedLogout\":1}}"
+        }
+      ]
+    }]
+  
+  }
