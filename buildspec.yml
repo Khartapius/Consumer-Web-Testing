@@ -18,3 +18,9 @@ artifacts:
   files:
     - 'playwright-report/**'
   discard-paths: no
+
+reports:
+  php-reports:
+    files:
+      - "reports/php/*.xml"
+    file-format: "JUNITXML"
