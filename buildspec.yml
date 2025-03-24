@@ -22,5 +22,5 @@ artifacts:
 reports:
   php-reports:
     files:
-      - "reports/php/*.xml"
+      - "JUnit-results.xml"
     file-format: "JUNITXML"
